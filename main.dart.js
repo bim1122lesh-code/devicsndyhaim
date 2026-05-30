@@ -93929,7 +93929,7 @@ l(){this.e.l()
 this.aB()},
 J(a){var s=this,r=null,q=s.gawl(),p=t.p,o=A.aS(r,A.b0(A.b([A.b0(A.b([B.KK,B.C9,A.Q("Secure Banking Session",r,r,r,r,A.bF().$3$color$fontSize$fontWeight(B.di,12,B.y),r,r,r)],p),B.p,B.l,B.k,0),A.Q("Last sync: Just now",r,r,r,r,A.bF().$2$color$fontSize(B.cv,11),r,r,r)],p),B.p,B.aC,B.k,0),B.o,B.kV,r,r,r,r,r,B.IK,r,r,1/0),n=$.bU()
 n=A.a1(B.c.av(25.5),n.n()>>>16&255,n.n()>>>8&255,n.n()&255)
-n=A.aI5(A.b([o,A.aS(r,A.az(A.b([A.Q("Welcome to ICICI Credit Card Services",r,r,r,r,A.bF().$3$color$fontSize$fontWeight($.bU(),22,B.K),r,r,r),B.dT,A.Q("View account summary, check available credit, track rewards, and securely manage all your cards.",r,r,r,r,A.bF().$2$color$fontSize(B.W,14),r,r,r)],p),B.B,B.l,B.k),B.o,n,r,r,r,r,r,B.fG,r,r,1/0),B.bJ,B.FB,B.av,B.I5,B.Cb,new A.aA(B.pD,A.az(A.b([A.Q("Manage Your Cards",r,r,r,r,A.bF().$3$color$fontSize$fontWeight(B.bv,22,B.K),r,r,r),B.bh,A.Q("Select a service below to proceed securely.",r,r,r,r,A.bF().$2$color$fontSize(B.cv,13),r,r,r)],p),B.B,B.l,B.k),r),B.aS,new A.R_(q,r),B.dS,B.a0a,B.jF,B.Jq],p),!0,!0,!0)
+n=A.aI5(A.b([o,A.aS(r,A.az(A.b([A.Q("Welcome to ICICI Credit Card Services",r,r,r,r,A.bF().$3$color$fontSize$fontWeight($.bU(),20,B.K),r,r,r),B.dT,A.Q("View account summary, check available credit, track rewards, and securely manage all your cards.",r,r,r,r,A.bF().$2$color$fontSize(B.W,13),r,r,r)],p),B.B,B.l,B.k),B.o,n,r,r,r,r,r,B.fG,r,r,1/0),B.bJ,B.FB,B.av,B.I5,B.Cb,new A.aA(B.pD,A.az(A.b([A.Q("Manage Your Cards",r,r,r,r,A.bF().$3$color$fontSize$fontWeight(B.bv,22,B.K),r,r,r),B.bh,A.Q("Select a service below to proceed securely.",r,r,r,r,A.bF().$2$color$fontSize(B.cv,13),r,r,r)],p),B.B,B.l,B.k),r),B.aS,new A.R_(q,r),B.dS,B.a0a,B.jF,B.Jq],p),!0,!0,!0)
 p=A.kD(!0,A.az(A.b([new A.Nf(new A.ary(s),r),A.cB(new A.Bi(n,r,B.aq,!1,s.e,r,B.fa,!1,r,14,B.ac,r,r,B.I,B.ay,r),1)],p),B.p,B.l,B.k),B.a7,!0)
 o=$.bU()
 return A.r8(r,B.f,p,r,new A.Kx(q,r),new A.MT(B.KJ,o,s.ga23(),4,B.a20,r),s.d)}}
@@ -93967,12 +93967,12 @@ A.pB.prototype={
 J(a){var s,r,q=this,p=null,o=A.b9(20),n=A.b([new A.cx(0,B.aV,A.a1(10,B.n.n()>>>16&255,B.n.n()>>>8&255,B.n.n()&255),B.dH,10)],t.F),m=A.iR(A.a1(38,B.aD.n()>>>16&255,B.aD.n()>>>8&255,B.aD.n()&255),1),l=q.f,k=l.aN(0.1),j=A.b9(16),i=t.p
 j=A.b0(A.b([A.aS(p,A.db(q.e,l,p,30),B.o,p,p,new A.bf(k,p,p,j,p,p,B.E),p,p,p,B.IN,p,p,p),B.Vd,A.cB(A.az(A.b([A.Q(q.c,p,p,p,p,A.bF().$3$color$fontSize$fontWeight(B.bv,17,B.K),p,p,p),B.dT,A.Q(q.d,p,p,p,p,A.bF().$3$color$fontSize$height(B.cv,13,1.45),p,p,p)],i),B.B,B.l,B.k),1)],i),B.B,B.l,B.k,0)
 k=A.un(p,p,$.bU(),p,p,p,1.5,p,p,B.f,p,p,B.pA,p,new A.bP(A.b9(10),B.q),p,p,p,p,p)
-k=A.b([A.cB(A.um(A.Q(q.r,p,p,p,p,A.bF().$3$fontSize$fontWeight$letterSpacing(14,B.ag,0.3),p,p,p),q.w,k),1)],i)
+k=A.b([A.cB(A.um(A.Q(q.r,p,p,p,p,A.bF().$3$fontSize$fontWeight$letterSpacing(12,B.ag,0.3),p,p,p),q.w,k),1)],i)
 l=q.x
 if(l!=null){s=$.bU()
 r=A.a1(B.c.av(127.5),s.n()>>>16&255,s.n()>>>8&255,s.n()&255)
 r=A.aH6(p,p,s,p,p,p,p,p,p,B.f,p,p,B.pA,p,new A.bP(A.b9(10),B.q),new A.aw(r,1.5,B.t,-1),p,p,p,p)
-B.b.P(k,A.b([B.C6,A.cB(A.aH5(A.Q(l,p,p,p,p,A.bF().$3$fontSize$fontWeight$letterSpacing(14,B.ag,0.3),p,p,p),q.y,r),1)],i))}return A.aS(p,new A.aA(B.J_,A.az(A.b([j,B.av,A.b0(k,B.p,B.l,B.k,0)],i),B.B,B.l,B.k),p),B.o,p,p,new A.bf(B.f,p,m,o,n,p,B.E),p,p,B.IA,p,p,p,p)}}
+B.b.P(k,A.b([B.C6,A.cB(A.aH5(A.Q(l,p,p,p,p,A.bF().$3$fontSize$fontWeight$letterSpacing(12,B.ag,0.3),p,p,p),q.y,r),1)],i))}return A.aS(p,new A.aA(B.J_,A.az(A.b([j,B.av,A.b0(k,B.p,B.l,B.k,0)],i),B.B,B.l,B.k),p),B.o,p,p,new A.bf(B.f,p,m,o,n,p,B.E),p,p,B.IA,p,p,p,p)}}
 A.zY.prototype={
 a7(){return new A.FV()}}
 A.FV.prototype={
@@ -93982,7 +93982,7 @@ s=this.c
 s.toString
 r=A.v5(new A.aqh(),B.T9,t.z)
 A.dy(s,!1).k6(r)},
-J(a){var s=null,r=A.b9(14),q=this.d?8:3,p=A.b9(14),o=A.lI("assets/plogo.png",s,40,40),n=A.Q("Download ICICI Card App",s,s,s,s,A.bF().$1$fontWeight(B.ag),s,s,s)
+J(a){var s=null,r=A.b9(14),q=this.d?8:3,p=A.b9(14),o=A.lI("assets/plogo.png",s,40,40),n=A.Q("ICICI Card App",s,s,s,s,A.bF().$1$fontWeight(B.ag),s,s,s)
 return new A.L3(B.f,q,new A.bP(r,B.q),B.IU,A.q5(!1,p,!0,A.aBn(!1,s,s,s,!0,s,s,!0,s,o,s,s,s,s,s,!1,s,s,s,A.Q("Access your credit card services instantly on mobile.",s,s,s,s,A.bF().$1$fontSize(12),s,s,s),s,n,s,B.KE,s),s,!0,s,s,s,s,s,s,s,s,s,s,this.gaiI(),s,s,s,s),s)}}
 A.aqg.prototype={
 $0(){var s=this.a
